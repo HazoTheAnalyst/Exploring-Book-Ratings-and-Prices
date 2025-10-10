@@ -1,10 +1,10 @@
-# 📚 Exploring Book Ratings and Prices via Web Scraping
+#  Exploring Book Ratings and Prices via Web Scraping
 
 This project demonstrates practical web scraping skills by extracting book data from the website **Books to Scrape**. The data includes **book titles, prices, and ratings**, which are collected and saved into a structured CSV file for further analysis. This project highlights data collection using Python and popular scraping libraries.
 
 ---
 
-## 🔍 Project Objectives
+##  Project Objectives
 - Extract book information (Title, Price, Rating) from http://books.toscrape.com  
 - Demonstrate web scraping using **BeautifulSoup** and **Requests**  
 - Clean and organize the data using **Pandas**  
@@ -13,7 +13,7 @@ This project demonstrates practical web scraping skills by extracting book data 
 
 ---
 
-## ✅ Tools & Technologies Used
+##  Tools & Technologies Used
 | Tool/Library      | Purpose |
 |-------------------|---------|
 | Python            | Programming language |
@@ -23,12 +23,12 @@ This project demonstrates practical web scraping skills by extracting book data 
 | Jupyter Notebook  | Code execution and documentation |
 
 
-## 🗂️ Project Structure
+##  Project Structure
 
 
 ---
 
-## 📦 Dataset Output
+##  Dataset Output
 The scraped dataset contains the following columns:
 | Column Name | Description |
 |--------------|-------------|
@@ -38,9 +38,9 @@ The scraped dataset contains the following columns:
 
 ---
 
-## 🔧 How to Run This Project
+##  How to Run This Project
 
-### ✅ Prerequisites
+###  Prerequisites
 Make sure you have Python installed on your system. Then install dependencies:
 
 ```bash
