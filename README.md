@@ -23,3 +23,27 @@ This project demonstrates practical web scraping skills by extracting book data 
 | Jupyter Notebook  | Code execution and documentation |
 
 
+## 🗂️ Project Structure
+
+
+---
+
+## 📦 Dataset Output
+The scraped dataset contains the following columns:
+| Column Name | Description |
+|--------------|-------------|
+| Title        | Name of the book |
+| Price        | Price in GBP (£) |
+| Rating       | Book rating (out of 5 stars) |
+
+---
+
+## 🔧 How to Run This Project
+
+### ✅ Prerequisites
+Make sure you have Python installed on your system. Then install dependencies:
+
+```bash
+pip install requests beautifulsoup4 pandas
+git clone https://github.com/your-username/exploring-book-ratings-via-web-scraping.git
+jupyter notebook "Exploring Book Ratings and Prices via Web Scraping.ipynb"
