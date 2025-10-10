@@ -22,7 +22,4 @@ This project demonstrates practical web scraping skills by extracting book data 
 | Pandas            | Data cleaning and saving to CSV |
 | Jupyter Notebook  | Code execution and documentation |
 
----
-
-## 🗂️ Project Structure
 
