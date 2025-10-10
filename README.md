@@ -45,5 +45,5 @@ Make sure you have Python installed on your system. Then install dependencies:
 
 ```bash
 pip install requests beautifulsoup4 pandas
-git clone https://github.com/your-username/exploring-book-ratings-via-web-scraping.git
 jupyter notebook "Exploring Book Ratings and Prices via Web Scraping.ipynb"
+
