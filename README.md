@@ -43,6 +43,12 @@ cd Exploring-Book-Ratings-and-Prices
 
 pip install -r requirements.txt
 
+### Dataset Preview
+
+Below is a preview of the scraped dataset:
+
+![Dataset Preview](images/scraped%20data%20csv.png)
+
 python src/scraper.py
 
 Exploring Book Ratings and Prices via Web Scraping.ipynb
