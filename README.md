@@ -22,9 +22,10 @@ This project involves scraping book information such as **titles, prices, and ra
 
 ### Dataset Preview
 
-Below is a preview of the scraped dataset:
+Here is a preview of the dataset I scraped:
 
-![Dataset Preview](images/scraped%20data%20csv.png)
+![Dataset Preview](https://raw.githubusercontent.com/YourUsername/YourRepo/main/images/scraped%20data%20csv.png)
+
 
 ---
 
