@@ -20,6 +20,12 @@ This project involves scraping book information such as **titles, prices, and ra
 | Requests | Sending HTTP requests |
 | Pandas | Data cleaning & analysis |
 
+### Dataset Preview
+
+Below is a preview of the scraped dataset:
+
+![Dataset Preview](images/scraped%20data%20csv.png)
+
 ---
 
 ##  Project Structure
@@ -43,14 +49,9 @@ cd Exploring-Book-Ratings-and-Prices
 
 pip install -r requirements.txt
 
-### Dataset Preview
-
-Below is a preview of the scraped dataset:
-
-![Dataset Preview](images/scraped%20data%20csv.png)
-
 python src/scraper.py
 
 Exploring Book Ratings and Prices via Web Scraping.ipynb
+
 
 
