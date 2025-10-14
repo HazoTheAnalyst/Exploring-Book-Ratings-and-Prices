@@ -1,49 +1,50 @@
-#  Exploring Book Ratings and Prices via Web Scraping
-
-This project demonstrates practical web scraping skills by extracting book data from the website **Books to Scrape**. The data includes **book titles, prices, and ratings**, which are collected and saved into a structured CSV file for further analysis. This project highlights data collection using Python and popular scraping libraries.
-
----
-
-##  Project Objectives
-- Extract book information (Title, Price, Rating) from http://books.toscrape.com  
-- Demonstrate web scraping using **BeautifulSoup** and **Requests**  
-- Clean and organize the data using **Pandas**  
-- Export results into a CSV file  
-- Showcase data scraping skills 
+# Exploring Book Ratings and Prices 📚  
+Web scraping project using Python to collect and analyze book data from a public website.
 
 ---
 
-##  Tools & Technologies Used
-| Tool/Library      | Purpose |
-|-------------------|---------|
-| Python            | Programming language |
-| BeautifulSoup     | HTML parsing and data extraction |
-| Requests          | Sending HTTP requests to website |
-| Pandas            | Data cleaning and saving to CSV |
-| Jupyter Notebook  | Code execution and documentation |
+## 🔍 Project Overview
+This project involves scraping book information such as **titles, prices, and ratings** from the website **books.toscrape.com**. The goal of this project was to:
 
-
-##  Project Structure
-
+- ✅ Practice real-world **web scraping techniques**
+- ✅ Perform **data cleaning and organization**
+- ✅ Build a **portfolio project** showcasing Python and data analysis skills
 
 ---
 
-##  Dataset Output
-The scraped dataset contains the following columns:
-| Column Name | Description |
-|--------------|-------------|
-| Title        | Name of the book |
-| Price        | Price in GBP (£) |
-| Rating       | Book rating (out of 5 stars) |
+## 🛠️ Tools & Technologies Used
+| Tool | Purpose |
+|------|---------|
+| Python | Programming |
+| BeautifulSoup | Parsing HTML content |
+| Requests | Sending HTTP requests |
+| Pandas | Data cleaning & analysis |
 
 ---
 
-##  How to Run This Project
-
-###  Prerequisites
-Make sure you have Python installed on your system. Then install dependencies:
+## 📂 Project Structure
 
 ```bash
-pip install requests beautifulsoup4 pandas
-jupyter notebook "Exploring Book Ratings and Prices via Web Scraping.ipynb"
+Exploring-Book-Ratings-and-Prices/
+│
+├── data/
+│   └── books.csv                # Cleaned dataset
+├── notebooks/
+│   └── web_scraping_books.ipynb # Jupyter Notebook walkthrough
+├── src/
+│   ├── scraper.py               # Scraping logic
+│   ├── parser.py                # HTML parsing helpers (optional)
+│   └── utils.py                 # Extra helper functions (optional)
+├── requirements.txt             # Libraries required
+└── README.md                    # Project documentation
+
+git clone https://github.com/HazoTheAnalyst/Exploring-Book-Ratings-and-Prices.git
+cd Exploring-Book-Ratings-and-Prices
+
+pip install -r requirements.txt
+
+python src/scraper.py
+
+Exploring Book Ratings and Prices via Web Scraping.ipynb
+
 
