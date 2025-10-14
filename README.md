@@ -19,12 +19,12 @@ This project involves scraping book information such as **titles, prices, and ra
 | BeautifulSoup | Parsing HTML content |
 | Requests | Sending HTTP requests |
 | Pandas | Data cleaning & analysis |
+---
 
-### Dataset Preview
+##  Screenshots  
 
-Here is a preview of the dataset I scraped:
-
-![Dataset Preview](https://raw.githubusercontent.com/YourUsername/YourRepo/main/images/scraped%20data%20csv.png)
+### Power BI Dashboard  
+![Dashboard](images/scraped%20data%20csv.png) 
 
 
 ---
