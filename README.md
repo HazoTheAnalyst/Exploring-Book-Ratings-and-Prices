@@ -21,10 +21,10 @@ This project involves scraping book information such as **titles, prices, and ra
 | Pandas | Data cleaning & analysis |
 ---
 
-##  Screenshots  
+## Dataset Preview
+Here is a preview of the CSV dataset used in this project:
 
-### Power BI Dashboard  
-![Dashboard](images/scraped%20data%20csv.png) 
+![Dataset Screenshot]("scraped data csv.png")
 
 
 ---
