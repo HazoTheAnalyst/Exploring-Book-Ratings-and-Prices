@@ -22,7 +22,7 @@ This project involves scraping book information such as **titles, prices, and ra
 ---
 
 ## Dataset Preview
-Here is a preview of the CSV dataset used in this project:
+Below is a preview of the CSV dataset used in this project:
 
 ![Dataset Screenshot]("scraped data csv.png")
 
