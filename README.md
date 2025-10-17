@@ -3,7 +3,7 @@
 This project focuses purely on **web scraping** book data from an online bookstore using Python’s `BeautifulSoup` and `requests` libraries.  
 The scraped data includes **book titles, prices, and ratings**, which are saved into a CSV file for future analysis or exploration.
 ---
-## 📘 Project Overview
+##  Project Overview
 
 - **Goal:** To collect basic book details (title, price, and rating) from a website.  
 - **Scope:** Web scraping only — no data analysis or visualization was performed.  
@@ -22,7 +22,7 @@ The dataset contains the following columns:
 
 ---
 
-## 🧰 Tools and Libraries Used
+##  Tools and Libraries Used
 
 - **Python 3.x**
 - **requests** – To send HTTP requests and fetch web pages.
@@ -57,7 +57,7 @@ The dataset contains the following columns:
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. **Clone the repository**
    ```bash
